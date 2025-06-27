@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","28756","Google search Amazon, login to Amazon, and validate login","chromium","Fri Jun 27 16:03:17 IST 2025","passed","Fri Jun 27 16:03:46 IST 2025","","amazonLogin.spec.js","",""
+"","8437","Login Page with Valid Credentials","chromium","Fri Jun 27 15:32:38 IST 2025","passed","Fri Jun 27 15:32:47 IST 2025","","LoginPagewithjson.spec.js","",""
+"","6972","Login Page with Valid Credentials","chromium","Fri Jun 27 15:44:21 IST 2025","passed","Fri Jun 27 15:44:28 IST 2025","","LoginPage.spec.js","",""
+"","11829","Launch Google and validate browser title","chromium","Fri Jun 27 15:51:47 IST 2025","passed","Fri Jun 27 15:51:59 IST 2025","","googleTitle.spec.js","",""
